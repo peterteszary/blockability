@@ -1,0 +1,2 @@
+<?php
+// A csend arany.
